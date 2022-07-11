@@ -3,7 +3,7 @@
 ```sh
 docker-compose up
 ```
-n
+
 ### Create superuser
 
 ```sh
